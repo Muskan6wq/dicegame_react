@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/Muskan6wq",
+  base: "/Muskan6wq/",
   plugins: [react()],
 })
 
